@@ -1,0 +1,8 @@
+* [letsencrypt video](https://www.youtube.com/watch?v=Gas_sSB-5SU)
+* [letsencrypt docs](https://letsencrypt.readthedocs.org/en/latest/intro.html#about-the-let-s-encrypt-client)
+* [letsencrypt preview repository](https://github.com/letsencrypt/lets-encrypt-preview)
+* [letsencrypt announcment](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt.html)
+* [letsencrypt homepage](https://letsencrypt.org/)
+* [mozilla deprecating non secure http](https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/)
+* [Google marking http sites as non-secure](https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure)
+* [https could have prevented the github attack](https://www.eff.org/mention/wider-use-https-could-have-protected-github)
