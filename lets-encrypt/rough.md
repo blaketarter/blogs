@@ -8,11 +8,11 @@ With Mozilla, Google, and the EFF leading the push for an HTTPS only web, there 
 
 Let's Encrypt is trying to make the switch to HTTPS as fast and easy as possible, with the added benefit of being 100% free of charge. Instead of hours of error prone work to enable HTTPS on a site, now it's only a few minutes and a few commands away. Hopefully this tool will be available to everyone by summer 2015.
 
-With this new tool getting an SSL cert can now be done by less experienced site maintainers without the risk of bringing everything crashing down on accident. Easy cert revoking is even included in the off chance that a private key is compromised.
+With this new tool, getting an SSL cert can now be done by less experienced site maintainers without the risk of bringing everything crashing down on accident. Easy cert revoking is even included in the off chance that a private key is compromised.
 
 ### Mozilla is Making 11.89% of Users Require Secure Connections
 
-According to [recent market share estimates](https://www.netmarketshare.com/browser-market-share.aspx?qprid=0&qpcustomd=0) Mozilla's browser Firefox still holds on to around a 11.8% share of the browser market. They've made the [decision](https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/) to start a roll out of changes to browser features, phasing out access to certain features from websites that aren't secure. As well as making new features only available to websites utilizing HTTPS.
+According to [recent market share estimates](https://www.netmarketshare.com/browser-market-share.aspx?qprid=0&qpcustomd=0), Mozilla's browser Firefox still holds on to around a 11.8% share of the browser market. They've made the [decision](https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/) to start a roll out of changes to browser features; phasing out access to certain features from websites that aren't secure, as well as making new features only available to websites utilizing HTTPS.
 
 While usage of the http scheme will still be allowed for legacy content, they are sending a firm message to web developers to support HTTPS or start losing functionality and users.
 
@@ -24,7 +24,7 @@ This UX based approach is different than that of Mozilla's functionality based a
 
 ### Protecting Information and Preventing Malicious Attacks
 
-In April 2015 [Github](github.com) came under a massive DDoS attack, nearly crippling the service for a period of time. While the attack has since subsided, it sent ripples through the tech community. Accusations of China's involvement aside, the attack [could have been prevented](http://www.pcworld.com/article/2905432/wider-use-of-https-could-have-prevented-attack-against-github.html) had affected websites been using HTTPS to access certain resources. The attack used un-suspecting visitors to Chinese based websites to attempt to overload Github's servers. This attack was one of many catalysts in the ever growing push towards HTTPS. Now not only is HTTPS obviously good for securing communications, it can also protect a sites users from unwittingly partaking in a malicious attack.
+In April 2015 [Github](github.com) came under a massive DDoS attack, nearly crippling the service for a period of time. While the attack has since subsided, it sent ripples through the tech community. Accusations of China's involvement aside, the attack [could have been prevented](http://www.pcworld.com/article/2905432/wider-use-of-https-could-have-prevented-attack-against-github.html) had affected websites been using HTTPS to access certain resources. The attack used un-suspecting visitors to Chinese based websites to attempt to overload Github's servers. This attack was one of many catalysts in the ever growing push towards HTTPS. Now, not only is HTTPS obviously good for securing communications, it can also protect a sites users from unwittingly partaking in a malicious attack.
 
 ### Now is the Time to Make the Switch to HTTPS
 
