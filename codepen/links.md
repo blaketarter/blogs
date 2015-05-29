@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * [Prototyping](http://codepen.io/blaketarter/pen/yqhoD)
 * [Educational](http://codepen.io/blaketarter/pen/csgza)
 * [Functional](http://codepen.io/blaketarter/pen/wBLmNm)
